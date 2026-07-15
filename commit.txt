@@ -1,0 +1,21 @@
+commit
+snapshot
+commit message
+.git folder
+commit id
+branches and branch managing
+git - version controlled and handling of all files and changes (software / tool)
+GitHub - platform to store the codes with multiple copies
+AWS - code commit
+bit bucket
+default branch main
+git init
+git add filename 
+git commit -m
+commit allows to take a snapshot of the project 
+-m means message to name or write a message related to the commited file in git
+git log have the log and commit id  head -notes current branch and main is the primary branch
+HEAD->main
+git checkout commitid
+git checkout main
+git checkout -f main
