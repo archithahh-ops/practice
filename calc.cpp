@@ -19,7 +19,15 @@ int main(){
 		case '-':
 		     cout<<"The difference is: "<<a-b<<"\n";
 		     break;
-
+                case '*':
+		     cout<<"The product is: "<<a*b<<"\n";
+		     break;
+		case '/':
+		     if(b==0) cout<<"Invalid division \n";
+		     else{
+			     cout<<"The result of division is: "<<a/b<<"\n";
+		     }
+		     break;
 		default:
                       cout<<"Invalid operation \n";
 
