@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hi
 ! I am fine
+=======
+Yes
+hiii
+Hi Architha ! How are you?
+>>>>>>> a3a85c6 (file commited)
