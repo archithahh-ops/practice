@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"Kavinaya is 100 years old. She has severe backpain , neckpain and what not!";
+return 0;
+}
